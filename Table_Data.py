@@ -121,4 +121,3 @@ print("Inserted values into placement table")
 
 cursor.close()
 conn.close()
-
